@@ -1,4 +1,4 @@
-# Deploy contract on Linea
+# Deploy Contracts on Linea
 
 ## Setting up the necessary dependencies
 
